@@ -18,7 +18,7 @@ they care for themselves,because at the end we all deserve to live happy and be 
 
 ### Logical View
 
-* Place here figure that depicts logical overview of your project. (You can use draw.io).
+https://github.com/Samikaj/Samir/blob/origin/diagram%20logic.jpg
 
 
 ### Technology Stack
